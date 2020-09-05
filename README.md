@@ -45,7 +45,7 @@ https://www.espressif.com/sites/default/files/tools/flash_download_tool_v3.8.5_1
 ```
 
 ### upload 
-![windows](./images/Windows10.PNG)
+![windows](https://raw.githubusercontent.com/wlcims/My-TTGO-Watch-Bin-Flash/master/images/Windows10.PNG)
 > When the flashing is completed, you need to force the power off and restart by pressing the power button
 
 
