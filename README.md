@@ -8,7 +8,7 @@ How to flash https://github.com/sharandac/My-TTGO-Watch/ttgo-t-watch2020_v1.ino.
 file|write to address|from
 ---|---|---
 bootloader_dio_80m.bin|0x1000|https://github.com/espressif/arduino-esp32/blob/master/tools/sdk/bin/bootloader_dio_80m.bin
-partitions.bin|0x8000|My-TTGO-Watch/.pio/build/ttgo-t-watch/partitions.bin or https://github.com/wlcims/My-TTGO-Watch-Bin-Flash/data/partitions.bin
+partitions.bin|0x8000|My-TTGO-Watch/.pio/build/ttgo-t-watch/partitions.bin or https://github.com/wlcims/My-TTGO-Watch-Bin-Flash/blob/master/data/partitions.bin
 boot_app0.bin|0xe000|https://github.com/espressif/arduino-esp32/blob/master/tools/partitions/boot_app0.bin
 ttgo-t-watch2020_v1.ino.bin|0x10000|https://github.com/sharandac/My-TTGO-Watch/blob/master/ttgo-t-watch2020_v1.ino.bin
 
